@@ -1,0 +1,2836 @@
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2010-07-02 22:19:16) [GET]
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 60ms (View: 3, DB: 0) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:25:29) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: ):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-02 22:26:39) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: ):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:29:05) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-02 22:32:54) [GET]
+Rendering aboutus/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-02 22:32:59) [GET]
+Rendering projects/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-02 22:50:17) [GET]
+Rendering aboutus/index
+Completed in 90ms (View: 88, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:50:42) [GET]
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-02 22:50:47) [GET]
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:51:01) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:54:32) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 22:59:42) [GET]
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2010-07-02 22:59:48) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 231ms (View: 13, DB: 0) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:05:32) [GET]
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:05:32) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:15:28) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 126ms (View: 124, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:15:30) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:30) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:15:30) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2010-07-02 23:15:43) [GET]
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 90ms (View: 2, DB: 0) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:17:30) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:17:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/phoenixlogo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:17:30) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:17:30) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:18:44) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:18:44) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:18:44) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:20:00) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:20:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:20:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:21:10) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:21:10) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:21:10) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:21:11) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:21:11) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:21:11) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:22:15) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:22:16) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:22:16) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:24:22) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:24:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:24:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:27:46) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:27:46) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:27:51) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:27:52) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:30:14) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:30:14) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:30:31) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:30:31) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:31:23) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:32:02) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:32:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:32:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:50:05) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:50:05) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:50:05) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-02 23:51:58) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:51:58) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-02 23:51:58) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:17:03) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 70ms (View: 68, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:17:03) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:17:03) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:25:52) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:25:52) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:25:52) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:28:21) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:28:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:28:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:30:10) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:30:10) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:30:10) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:32:22) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:32:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:32:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:32:39) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:32:39) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:32:39) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:35:29) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:38:32) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:38:32) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:38:32) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:38:36) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:38:36) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 00:38:39) [GET]
+Rendering projects/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 00:38:44) [GET]
+Rendering aboutus/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 00:38:49) [GET]
+Rendering aboutus/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 00:38:53) [GET]
+Rendering projects/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:40:59) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:40:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:40:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:41:03) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:41:03) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 00:41:04) [GET]
+Rendering projects/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 00:41:07) [GET]
+Rendering aboutus/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:43:33) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:48:58) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:55:32) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:55:32) [GET]
+
+ActionController::RoutingError (No route matches "/phoenix_logo_simple.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:56:55) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 00:56:55) [GET]
+
+ActionController::RoutingError (No route matches "/phoenix_logo_simple.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 00:59:54) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 31ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:00:25) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:17:12) [GET]
+Rendering projects/index
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:18:03) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:18:09) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:20:51) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:20:53) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:20:55) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:22:32) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:22:35) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 66ms (View: 65, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:22:38) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:22:43) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:25:41) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:25:50) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:26:22) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:26:23) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:37:42) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 99ms (View: 98, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:37:48) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:44:31) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:45:09) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:45:14) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:45:16) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:45:17) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:45:18) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:45:20) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:45:21) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:45:21) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:46:02) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:53:15) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 69ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:54:50) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width=10px ).to_s); @output_buffer....
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+..._tag("twitter.png") width=10px ).to_s); @output_buffer.conca...
+                              ^
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table>\n                <tr>\n                    <td>\n                        Copyright Bacomso Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td>\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png") width=10px ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:54:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width=10px ).to_s); @output_buffer....
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+..._tag("twitter.png") width=10px ).to_s); @output_buffer.conca...
+                              ^) on line #38 of app/views/layouts/home.html.erb:
+35:                     <td>
+36:                     </td>
+37:                     <td>
+38:                         <%= image_tag("twitter.png") width=10px %>
+39:                     </td>
+40:                     <td>
+41:                         <%= image_tag("facebook.png") %>
+
+    app/views/layouts/home.html.erb:54:in `compile!'
+
+Rendered rescues/_trace (48.0ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:55:05) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width="10px" ).to_s); @output_buffe...
+                              ^
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table>\n                <tr>\n                    <td>\n                        Copyright Bacomso Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td>\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png") width="10px" ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:54:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width="10px" ).to_s); @output_buffe...
+                              ^) on line #38 of app/views/layouts/home.html.erb:
+35:                     <td>
+36:                     </td>
+37:                     <td>
+38:                         <%= image_tag("twitter.png") width="10px" %>
+39:                     </td>
+40:                     <td>
+41:                         <%= image_tag("facebook.png") %>
+
+    app/views/layouts/home.html.erb:54:in `compile!'
+
+Rendered rescues/_trace (113.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:55:31) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width="10" ).to_s); @output_buffer....
+                              ^
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table>\n                <tr>\n                    <td>\n                        Copyright Bacomso Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td>\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png") width="10" ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:54:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tIDENTIFIER, expecting ')'
+...image_tag("twitter.png") width="10" ).to_s); @output_buffer....
+                              ^) on line #38 of app/views/layouts/home.html.erb:
+35:                     <td>
+36:                     </td>
+37:                     <td>
+38:                         <%= image_tag("twitter.png") width="10" %>
+39:                     </td>
+40:                     <td>
+41:                         <%= image_tag("facebook.png") %>
+
+    app/views/layouts/home.html.erb:54:in `compile!'
+
+Rendered rescues/_trace (45.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:57:43) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:58:03) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:58:04) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:58:06) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:58:07) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:58:09) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:58:10) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:58:12) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 01:58:14) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 01:58:16) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 01:58:18) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:00:32) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:01:03) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:01:29) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:05:07) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:05:18) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:05:32) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:06:53) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tSTRING_BEG, expecting tASSOC
+...size=> "25x25", :onmouseover="Follow us on Twitter")).to_s);...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected ')', expecting kEND
+..."Follow us on Twitter")).to_s); @output_buffer.concat "\n   ...
+                              ^
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table>\n                <tr>\n                    <td>\n                       &copy; 2010 Copyright Phoenix Solutions Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td class=\"socialmedia\">\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png", :size=> "25x25", :onmouseover="Follow us on Twitter")).to_s); @output_buffer.concat "\n                    </td>\n                    <td class=\"socialmedia\">\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td class=\"socialmedia\">\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:54:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected tSTRING_BEG, expecting tASSOC
+...size=> "25x25", :onmouseover="Follow us on Twitter")).to_s);...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:38: syntax error, unexpected ')', expecting kEND
+..."Follow us on Twitter")).to_s); @output_buffer.concat "\n   ...
+                              ^) on line #38 of app/views/layouts/home.html.erb:
+35:                     <td>
+36:                     </td>
+37:                     <td class="socialmedia">
+38:                         <%= image_tag("twitter.png", :size=> "25x25", :onmouseover="Follow us on Twitter")%>
+39:                     </td>
+40:                     <td class="socialmedia">
+41:                         <%= image_tag("facebook.png") %>
+
+    app/views/layouts/home.html.erb:54:in `compile!'
+
+Rendered rescues/_trace (45.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:07:05) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:07:33) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 75ms (View: 73, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:08:01) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:08:24) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:25) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:25) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-03 02:08:33) [GET]
+
+ActionController::RoutingError (No route matches "/images/Follow%20us%20on%20Twitter" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:11:30) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ebook.png, :class="socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table class=\"socialmedia_table\">\n                <tr>\n                    <td>\n                       &copy; 2010 Copyright Phoenix Solutions Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td >\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png", :size=> "25x25", :mouseover=> "Follow us on Twitter")).to_s); @output_buffer.concat "\n                    </td\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png, :class="socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png, :class="socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ebook.png, :class="socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR) on line #41 of app/views/layouts/home.html.erb:
+38:                         <%= image_tag("twitter.png", :size=> "25x25", :mouseover=> "Follow us on Twitter")%>
+39:                     </td
+40:                     <td>
+41:                         <%= image_tag("facebook.png, :class="socialmedia") %>
+42:                     </td>
+43:                     <td>
+44:                         <%= image_tag("wordpress.png, :class="socialmedia") %>
+
+    app/views/layouts/home.html.erb:44:in `compile!'
+
+Rendered rescues/_trace (45.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:12:11) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table class=\"socialmedia_table\">\n                <tr>\n                    <td>\n                       &copy; 2010 Copyright Phoenix Solutions Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td >\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png", :size=> "25x25", :mouseover=> "Follow us on Twitter")).to_s); @output_buffer.concat "\n                    </td\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR) on line #41 of app/views/layouts/home.html.erb:
+38:                         <%= image_tag("twitter.png", :size=> "25x25", :mouseover=> "Follow us on Twitter")%>
+39:                     </td
+40:                     <td>
+41:                         <%= image_tag("facebook.png, :class=> "socialmedia") %>
+42:                     </td>
+43:                     <td>
+44:                         <%= image_tag("wordpress.png, :class=> "socialmedia") %>
+
+    app/views/layouts/home.html.erb:44:in `compile!'
+
+Rendered rescues/_trace (112.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:12:42) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table class=\"socialmedia_table\">\n                <tr>\n                    <td>\n                       &copy; 2010 Copyright Phoenix Solutions Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td >\n                        "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png", :size=> "25x25")).to_s); @output_buffer.concat "\n                    </td\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR) on line #41 of app/views/layouts/home.html.erb:
+38:                         <%= image_tag("twitter.png", :size=> "25x25")%>
+39:                     </td
+40:                     <td>
+41:                         <%= image_tag("facebook.png, :class=> "socialmedia") %>
+42:                     </td>
+43:                     <td>
+44:                         <%= image_tag("wordpress.png, :class=> "socialmedia") %>
+
+    app/views/layouts/home.html.erb:44:in `compile!'
+
+Rendered rescues/_trace (45.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:13:53) [GET]
+Rendering template within layouts/home
+Rendering home/index
+ERROR: compiling _run_erb_app47views47layouts47home46html46erb RAISED compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+Function body:           def _run_erb_app47views47layouts47home46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\n        <title>Phoenix Home</title>\n        "
+
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'phoenix', :media => "all" ).to_s); @output_buffer.concat "\n    </head>\n    <body id=\"home\">\n        <div id=\"banner\">\n            "
+
+
+
+; @output_buffer.concat(( image_tag("rails.png") ).to_s); @output_buffer.concat "\n            "
+; @output_buffer.concat(( @page_title || "Phoenix" ).to_s); @output_buffer.concat "\n            <table class=\"menu\">\n                <tr>\n                <td>\n                    "
+
+
+
+; @output_buffer.concat(( link_to "Home", { :action => "index" , :controller => "home" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                    "
+
+
+; @output_buffer.concat(( link_to "Projects", { :action => "index" , :controller => "projects" } ).to_s); @output_buffer.concat "\n                </td>\n                <td>\n                \t"
+
+
+; @output_buffer.concat(( link_to "About Us", { :action => "index" , :controller => "aboutus" } ).to_s); @output_buffer.concat "\n                </td>\n            </tr>\n            </table>\n        </div>\n        <div id=\"page\">\n            "
+
+
+
+
+
+; @output_buffer.concat(( yield :layout ).to_s); @output_buffer.concat "\n        </div>\n        <div id=\"footer\">\n            <table class=\"socialmedia_table\">\n                <tr>\n                    <td>\n                       &copy; 2010 Copyright Phoenix Solutions Inc\n                    </td>\n                    <td>\n                    </td>\n                    <td >\n                        Follow us on Twitter "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag("twitter.png", :size=> "25x25")).to_s); @output_buffer.concat "\n                    </td\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("facebook.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                    <td>\n                        "
+
+
+; @output_buffer.concat(( image_tag("wordpress.png, :class=> "socialmedia") ).to_s); @output_buffer.concat "\n                    </td>\n                </tr>\n            </table>\n        </div>\n    </body>\n</html>\n"
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected tIDENTIFIER, expecting ')'
+...ook.png, :class=> "socialmedia") ).to_s); @output_buffer.con...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:41: syntax error, unexpected $undefined, expecting ')'
+...o_s); @output_buffer.concat "\n                    </td>\n  ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - td
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+... "\n                    </td>\n                </tr>\n      ...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - tabl
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...  </tr>\n            </table>\n        </div>\n    </body>\n...
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unknown regexp options - bdy
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected $undefined
+...\n        </div>\n    </body>\n</html>\n"
+                              ^
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: unterminated string meets end of file
+/Users/raghu/My Folders/RaghuPlayground/phoenix/app/views/layouts/home.html.erb:44: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR) on line #41 of app/views/layouts/home.html.erb:
+38:                         Follow us on Twitter <%= image_tag("twitter.png", :size=> "25x25")%>
+39:                     </td
+40:                     <td>
+41:                         <%= image_tag("facebook.png, :class=> "socialmedia") %>
+42:                     </td>
+43:                     <td>
+44:                         <%= image_tag("wordpress.png, :class=> "socialmedia") %>
+
+    app/views/layouts/home.html.erb:44:in `compile!'
+
+Rendered rescues/_trace (46.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:14:36) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:15:22) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:15:45) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:16:02) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 74ms (View: 72, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:17:24) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:21:18) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:21:38) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:21:44) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:21:47) [GET]
+Rendering template within layouts/home
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:21:47) [GET]
+Rendering template within layouts/home
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:21:48) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:22:23) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:24:23) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:24:28) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:27:45) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:29:22) [GET]
+Rendering template within layouts/home
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:30:03) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:30:05) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:30:06) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:30:07) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:30:09) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:30:09) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:31:08) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:31:43) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:31:56) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:34:50) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:35:02) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:35:04) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:35:05) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:35:36) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:35:40) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:35:42) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:35:43) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:35:45) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:35:46) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:36:53) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:36:55) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:36:56) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:36:57) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:36:58) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:38:10) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:38:41) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:38:42) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:38:43) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:38:44) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:40:18) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:40:21) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-07-03 02:40:23) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-03 02:40:24) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:40:25) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:43:50) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 35ms (View: 34, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:44:09) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:48:08) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:48:10) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-07-03 02:49:02) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]

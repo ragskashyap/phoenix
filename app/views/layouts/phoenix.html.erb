@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <title>Phoenix Solutions Inc</title>
+        <%= stylesheet_link_tag 'phoenix', :media => "all" %>
+    </head>
+    <body id="home">
+        <div id="banner">
+            
+
+            <table class="menu">
+                <tr>
+                    <td>
+                    	<%= image_tag("rails.png") %>
+                    </td>
+                    <td>
+            			<%= @page_title || "Phoenix Solutions Inc" %>
+                    </td>					
+                    <td>
+                        <%= link_to "Home", { :action => "index" , :controller => "home" } %>
+                    </td>
+                    <td>
+                        <%= link_to "Projects", { :action => "index" , :controller => "projects" } %>
+                    </td>
+                    <td>
+                        <%= link_to "About Us", { :action => "index" , :controller => "aboutus" } %>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="page">
+            <%= yield :layout %>
+        </div>
+        <div id="footer">
+        	<footer>
+            <table class="socialmedia_table">
+                <tr>
+                    <td>
+                        &copy; 2010 Copyright Phoenix Solutions Inc
+                    </td>
+                    <td>
+                        Follow us on Twitter <%= image_tag("twitter.png", :size=> "35x35") %>
+                    </td
+                    <td>
+                        Become a Fan on Facebook <%= image_tag("facebook.png", :size=> "35x35") %>
+                    </td>
+                    <td>
+                        Our Blog <%= image_tag("wordpress.png", :size=> "35x35") %>
+                    </td>
+                </tr>
+            </table>
+			</footer>
+        </div>
+    </body>
+</html>
