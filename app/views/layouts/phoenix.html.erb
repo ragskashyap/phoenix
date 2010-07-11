@@ -4,53 +4,71 @@
         <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
         <title>Phoenix Solutions Inc</title>
         <%= stylesheet_link_tag 'phoenix', :media => "all" %>
-    </head>
-    <body id="home">
-        <div id="banner">
+        <!--Lightbox scripts -->
+        <script type="text/javascript" src="javascripts/jquery.js">
+        </script>
+        <script type="text/javascript" src="javascripts/jquery.lightbox-0.5.js">
+        </script>
+        <link rel="stylesheet" type="text/css" href="stylesheets/jquery.lightbox-0.5.css" media="screen" />
+        <script type="text/javascript">
+            $(function(){
+                $('#gallery a').lightBox();
+            });
+        </script>
+        <style type="text/css">
+            /* jQuery lightBox plugin - Gallery style */
+            #gallery {
+                width: 520px;
+            }
             
-
-            <table class="menu">
-                <tr>
-                    <td>
-                    	<%= image_tag("rails.png") %>
-                    </td>
-                    <td>
-            			<%= @page_title || "Phoenix Solutions Inc" %>
-                    </td>					
-                    <td>
-                        <%= link_to "Home", { :action => "index" , :controller => "home" } %>
-                    </td>
-                    <td>
-                        <%= link_to "Projects", { :action => "index" , :controller => "projects" } %>
-                    </td>
-                    <td>
-                        <%= link_to "About Us", { :action => "index" , :controller => "aboutus" } %>
-                    </td>
-                </tr>
-            </table>
-        </div>
-        <div id="page">
-            <%= yield :layout %>
-        </div>
-        <div id="footer">
-        	<footer>
-            <table class="socialmedia_table">
-                <tr>
-                    <td>
-                        &copy; 2010 Copyright Phoenix Solutions Inc
-                    </td>
-                    <td>
-                        Follow us on Twitter <%= image_tag("twitter.png", :size=> "35x35") %>
-                    </td
-                    <td>
-                        Become a Fan on Facebook <%= image_tag("facebook.png", :size=> "35x35") %>
-                    </td>
-                    <td>
-                        Our Blog <%= image_tag("wordpress.png", :size=> "35x35") %>
-                    </td>
-                </tr>
-            </table>
-			</footer>
+            #gallery ul {
+                list-style: none;
+            }
+            
+            #gallery ul li {
+                display: inline;
+            }
+            
+            #gallery ul img {
+                border: 5px solid #3e3e3e;
+                border-width: 5px 5px 20px;
+            }
+            
+            #gallery ul a:hover img {
+                border: 5px solid #fff;
+                border-width: 5px 5px 20px;
+                color: #fff;
+            }
+            
+            #gallery ul a:hover {
+                color: #fff;
+            }
+        </style>
+        <!--Lightbox scripts -->
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <a href="#">Add Logo here</a>
+            </div>
+            <div id="menu">
+                <%= link_to "Home", { :action => "index" , :controller => "home" } %>
+                &nbsp; &nbsp; &nbsp; &nbsp; <%= link_to "Projects", { :action => "index" , :controller => "projects" } %>
+                &nbsp; &nbsp; &nbsp; &nbsp; <%= link_to "About Us", { :action => "index" , :controller => "aboutus" } %>
+            </div>
+            <div id="main">
+                <%= yield :layout %>
+                <div class="clear">
+                </div>
+            </div>
+            <div id="footer">
+                <div id="gallery">
+                	&copy; 2010 Copyright Phoenix Solutions Inc<span class="separator">|</span>
+                    <a href="images/twitter.png" title="Follow us on Twitter @phoenix"><%= image_tag("twitter.png", :size=> "35x35") %></a>
+                    &nbsp;<a href="images/facebook.png" title="Become a fan"><%= image_tag("facebook.png", :size=> "35x35") %></a>
+                    &nbsp;<a href="images/wordpress.png" title="We Blog"><%= image_tag("wordpress.png", :size=> "35x35") %></a> 
+                </div>
+            </div>
         </div>
     </body>
 </html>
