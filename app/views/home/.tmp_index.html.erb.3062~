@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="sidebar">
-            <%= image_tag("phoenix_logo_simple.jpg", :size => "150x150" )%>
+            <%= image_tag("phoenix_logo_simple.jpg") %>
         </div>
         <div id="text">
             <p>

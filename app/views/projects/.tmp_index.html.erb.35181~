@@ -1,13 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-        <title>Phoenix Home</title>
-        <%= stylesheet_link_tag 'phoenix', :media => "all" %>
-    </head>
-    <body>
-        <div id="sidebar">
-            <%= image_tag("phoenix_logo_simple.jpg", :size => "150x150" )%>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Phoenix Projects</title>
+		<%= stylesheet_link_tag 'phoenix', :media => "all" %>
+	</head>
+	<body>
+      <div id="sidebar">
+            <%= image_tag("twitter.png") %>
+			<%= image_tag("facebook.png") %>
+			<%= image_tag("rails.png") %>
+			<%= image_tag("wordpress.png") %>
+
         </div>
         <div id="text">
             <p>
@@ -18,5 +22,5 @@
                 Our success in this area is due to our adoption of the 5 step process, viz.
             </p>
         </div>
-    </body>
+	</body>
 </html>

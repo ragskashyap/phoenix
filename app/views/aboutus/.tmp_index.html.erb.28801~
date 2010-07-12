@@ -2,14 +2,46 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-        <title>Phoenix Home</title>
+        <title>About Us</title>
         <%= stylesheet_link_tag 'phoenix', :media => "all" %>
+        <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" /><script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" />
+        <style type="text/css">
+            #slider {
+                float: left;
+                width: 230px;
+                padding: 10px;
+            }
+            
+            #text_slider {
+                float: right;
+                width: 480px;
+                padding: 10px;
+            }
+        </style>
+        <script>
+            $(document).ready(function(){
+            
+                $("#slider img").click(function(){
+                    $("#text_slider").show("slide", {
+                        direction: "right"
+                    }, 1000);
+                });
+                
+            });
+        </script>
     </head>
     <body>
-        <div id="sidebar">
-            <%= image_tag("phoenix_logo_simple.jpg", :size => "150x150" )%>
+        <div id="slider">
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
+            <%= image_tag("twitter.png") %>
         </div>
-        <div id="text">
+        <div id="text_slider">
             <p>
                 Our Phoenix division acts as the condo doctor to diagnose, cure, rehabilitate, renovate, re-position, and remarket ‘broken or fractured condominium projects. 
                 In this field of broken or fractured condominium market, we have a unique, and unparalleled experience of several years.  
