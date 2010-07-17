@@ -10,7 +10,7 @@ margin: 0 auto;
 
 #header { 
 padding: 35px 30px 5px 30px;
-background: #3b7687;
+background: #444444;
 } 
 
 #header a {
@@ -81,7 +81,7 @@ margin: 20px 0 5px 0;
 }
 
 #main {
-background-image:url(images/bg.gif);
+background-image:url(../images/bg.gif);
 background-color:#ffffff;
 } 
 
@@ -106,7 +106,7 @@ color: #444444;
 
 #footer {
 padding: 6px 30px 6px 30px;
-background: #3b7687; 
+background: #444444; 
 font-family: "Myriad Pro";
 color: #FFFFFF;
 font-size: 15px;

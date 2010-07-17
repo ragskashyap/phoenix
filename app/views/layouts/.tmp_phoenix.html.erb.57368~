@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <title>Phoenix Solutions Inc</title>
+        <%= stylesheet_link_tag 'phoenix', :media => "all" %>
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <a href="#">Add Logo here</a>
+            </div>
+            <div id="menu">
+                <%= link_to "Home", { :action => "index" , :controller => "home" } %>
+                &nbsp; &nbsp; &nbsp; &nbsp; <%= link_to "Projects", { :action => "index" , :controller => "projects" } %>
+                &nbsp; &nbsp; &nbsp; &nbsp; <%= link_to "About Us", { :action => "index" , :controller => "aboutus" } %>
+            </div>
+            <div id="main">
+                <%= yield :layout %>
+                <div class="clear">
+                </div>
+            </div>
+            <div id="footer">
+                <div id="gallery">
+                	&copy; 2010 Copyright Phoenix Solutions Inc
+                    &nbsp;<a href="http://twitter.com/phoenix" target="_blank" title="Follow us on Twitter @phoenix"><%= image_tag("twitter.png", :size=> "35x35") %></a>
+                    &nbsp;<a href="http://facebook.com" target="_blank" title="Become a fan"><%= image_tag("facebook.png", :size=> "35x35") %></a>
+                    &nbsp;<a href="http://wordpress.com" target="_blank" title="We Blog"><%= image_tag("wordpress.png", :size=> "35x35") %></a> 
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
