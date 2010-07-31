@@ -19,7 +19,7 @@
     <body>
         <div id="container">
             <div id="header">
-                <%= image_tag("PhoenixLogo.gif") %>
+                <a href="#">Add Logo here</a>
 
 			</div>
 			<div>
