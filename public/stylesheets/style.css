@@ -9,7 +9,6 @@ font-family:Verdana, Arial, Helvetica, sans-serif;
      margin: 0;  
      padding: 0; 
 	 background-image:url(../images/no_flicker.jpg); /*some browsers are to slow when aligning the menu items via jQuery and so the background shines through, this prevents this flickering*/
-
  }  
  .kwicks li{  
     display: block;  
@@ -57,7 +56,7 @@ font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
 #kwick1 a{
-	background-image:url(../images/end.jpg);
+	background-image:url(../images/phoenix_end.jpg);
 	background-repeat:no-repeat;
 	background-position: left 0px;
 }
@@ -67,7 +66,7 @@ font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
 #kwick4 a{
-	background-image:url(../images/end.jpg);
+	background-image:url(../images/phoenix_end.jpg);
 	background-repeat:no-repeat;
 	background-position: right -40px;
 }

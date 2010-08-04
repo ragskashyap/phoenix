@@ -1,5 +1,5 @@
 body  {
-background: #E9F2F6;
+background: #000000;
 margin: 0;
 }
 
@@ -21,7 +21,7 @@ font-family: "Myriad Pro";
 }
 
 #menu {
-background-color: #3b7687; 
+background-color: #444444; 
 padding: 6px 30px 6px 0;
 text-align:right;
 }
@@ -58,10 +58,6 @@ font-size: 12px;
 color: #666666;
 }
 
-#sidebar img {
-border: solid 1px #d6d6d6;
-}
-
 .project {
 margin:15px 0 25px 0;
 }
@@ -82,7 +78,7 @@ margin: 20px 0 5px 0;
 
 #main {
 background-image:url(../images/bg.gif);
-background-color:#ffffff;
+background-color:#444444;
 } 
 
 #text { 
@@ -106,7 +102,7 @@ color: #444444;
 
 #footer {
 padding: 6px 30px 6px 30px;
-background: #444444; 
+background: #800000; 
 font-family: "Myriad Pro";
 color: #FFFFFF;
 font-size: 15px;
