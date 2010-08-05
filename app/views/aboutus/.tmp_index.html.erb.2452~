@@ -7,11 +7,6 @@
      </head>
     <body>
     	 <div id="sidebar">
-			<%= image_tag("DrVishPic.jpg", :size=>"160x105") %>
-			</br>Dr Ganeshan (Vish)</br>Visvabharathy, President
-    	 	<%= image_tag("everestpartners_Arjun.jpg") %>
-			</br>Arjun Rangarajan</br>
-			</br>Vice President- Asset Management
         </div>
         <div id="text">
             <p>

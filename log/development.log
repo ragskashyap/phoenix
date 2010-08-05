@@ -17641,3 +17641,1181 @@ Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 16:17:00) [GET]
 Rendering template within layouts/phoenix
 Rendering projects/index
 Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 16:46:24) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:01:08) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:03:08) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:03:38) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:04:09) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 79ms (View: 77, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:04:40) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:05:04) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 17:06:23) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:06:25) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:13:05) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 82ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:14:18) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:18:15) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 17:19:02) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 17:19:07) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 17:19:26) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:20:26) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 17:21:26) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 17:21:36) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 17:23:01) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:10:40) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:14:09) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:14:18) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:16:06) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:17:26) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:17:31) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:18:05) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:18:14) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:20:39) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 76ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:21:42) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:22:43) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:23:24) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:24:30) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:27:28) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:27:33) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 18:27:36) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 18:27:39) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 18:30:38) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:30:45) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 90ms (View: 88, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:32:11) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:32:18) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:32:20) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 18:32:22) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 18:32:24) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:32:26) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:35:12) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:35:56) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:36:16) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:37:15) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:37:49) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:38:03) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:38:22) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:39:46) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:40:06) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 18:41:12) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:46:08) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:48:34) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:48:41) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:51:34) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 84ms (View: 82, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:51:49) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 18:51:54) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 18:51:56) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:51:57) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:52:48) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 76ms (View: 74, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:52:52) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:52:55) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:55:55) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 18:55:59) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:56:18) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:56:59) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:57:29) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 18:58:10) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:00:02) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:00:17) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:00:37) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:00:39) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:00:40) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:00:42) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:00:43) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:00:44) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:04:43) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 87ms (View: 86, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:05:54) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:06:33) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:07:04) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:08:13) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:08:19) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:09:09) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:09:42) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:10:57) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:12:52) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:13:02) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:14:49) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:14:55) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:15:26) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:15:30) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:15:32) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:16:22) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:16:30) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:16:32) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:16:33) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:17:01) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:17:10) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:31:47) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:32:13) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:32:16) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:32:17) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:32:19) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:32:21) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:33:13) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:34:06) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:34:07) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:34:19) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:34:23) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:34:24) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:34:27) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:34:29) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:37:14) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:37:37) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:38:05) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:38:22) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:38:43) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:38:57) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:39:09) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:42:46) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:43:25) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:44:18) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:44:57) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:45:07) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:45:08) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:45:18) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:46:15) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:46:17) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:46:19) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:46:23) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:46:24) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:48:39) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:48:45) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:49:21) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:50:44) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:51:13) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:52:25) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:53:01) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:53:19) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:53:26) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:54:07) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 80ms (View: 78, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:54:34) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:55:20) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:56:11) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:58:52) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:59:15) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:59:27) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 19:59:30) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:59:32) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 19:59:33) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:59:34) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 19:59:50) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 19:59:55) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:00:28) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:01:02) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:01:20) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:02:03) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:02:24) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 80ms (View: 78, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:03:06) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:03:25) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:03:32) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:03:39) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:04:22) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:04:36) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:04:57) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:05:16) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:06:22) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:06:25) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:08:10) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:08:44) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:08:54) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:08:56) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 20:09:00) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:09:02) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:09:06) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:09:16) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:09:18) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 20:09:36) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:09:48) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:09:51) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:11:32) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-04 20:11:32) [GET]
+
+ActionController::RoutingError (No route matches "/images/everestpartners_Ganeshan.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:12:15) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:12:47) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:12:50) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:13:09) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:15:51) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:16:19) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:17:09) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-08-04 20:17:13) [GET]
+Rendering template within layouts/phoenix
+Rendering contact/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing AboutusController#index (for 127.0.0.1 at 2010-08-04 20:17:23) [GET]
+Rendering template within layouts/phoenix
+Rendering aboutus/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/aboutus]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-08-04 20:17:25) [GET]
+Rendering template within layouts/phoenix
+Rendering projects/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/projects]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-08-04 20:17:27) [GET]
+Rendering template within layouts/phoenix
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]

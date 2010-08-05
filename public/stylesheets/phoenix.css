@@ -1,11 +1,12 @@
 body  {
 background: #000000;
 margin: 0;
+background-image:url(../images/bgMain.jpg);
 }
 
 #container { 
 width: 780px;
-margin: 0 auto;
+margin: 10px auto;
 }
 
 #header { 
@@ -77,16 +78,16 @@ margin: 20px 0 5px 0;
 }
 
 #main {
-background-image:url(../images/bg.gif);
-background-color:#444444;
+/*background-image:url(../images/bg.gif);*/
+background-color:#FFFFFF;
+width: 780px;
 } 
 
 #text { 
 margin: 0 0 0 220px;
 padding: 25px 30px 30px 30px;
-color: #444444;
-font-family: "Georgia";
-font-size: 13px; 
+font-family: "Helvetica";
+font-size: 14px; 
 line-height: 18px;
 text-align: justify;
 } 
