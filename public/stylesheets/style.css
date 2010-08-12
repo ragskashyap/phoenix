@@ -54,13 +54,12 @@ font-family:Verdana, Arial, Helvetica, sans-serif;
 #kwick4.active, #kwick4:hover {
 	background-position: -600px bottom; 
 }
-
+/*
 #kwick1 a{
 	background-image:url(../images/phoenix_end.jpg);
 	background-repeat:no-repeat;
 	background-position: left 0px;
 }
-
 #kwick1 a:hover{
 	background-position: left -80px;
 }
@@ -72,4 +71,4 @@ font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 #kwick4 a:hover{
 	background-position: right -120px;
-}
+}*/
