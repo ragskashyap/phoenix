@@ -3,3 +3,7 @@
 # To ban all spiders from the entire site uncomment the next two lines:
 # User-Agent: *
 # Disallow: /
+
+sitemap: http://cdn.attracta.com/sitemap/435117.xml.gz
+
+sitemap: http://cdn.attracta.com/sitemap/435124.xml.gz

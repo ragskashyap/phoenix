@@ -2,8 +2,8 @@
 #   gem install mysql-ruby (not necessary on OS X Leopard)
 development:
   adapter: mysql
-  database: phoenix_development
-  username: root
+  database: everest4_phoenix
+  username: everest4_phoenix
   password: 
   pool: 5
   timeout: 5000
@@ -19,8 +19,8 @@ test:
 
 production:
   adapter: mysql
-  database: phoenix_production
-  username: root
+  database: everest4_phoenix
+  username: everest4_phoenix
   password: 
   pool: 5
   timeout: 5000
